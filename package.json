@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Donald Newholm <newholm1@hotmail.com> (https://github.com/CodeKrakken.git)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "wscat": "^4.0.1"
+  }
 }
