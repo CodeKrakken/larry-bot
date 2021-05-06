@@ -10,6 +10,7 @@
   "author": "Donald Newholm <newholm1@hotmail.com> (https://github.com/CodeKrakken.git)",
   "license": "MIT",
   "dependencies": {
+    "lightweight-charts": "^3.3.0",
     "wscat": "^4.0.1"
   }
 }
